@@ -1,5 +1,6 @@
 {
     "name": "nextjs-boilerplate",
+    "description": "Boilerplate and Starter Kit for Next.js 14+, Tailwind CSS 3.3, and TypeScript 5+.",
     "version": "0.1.0",
     "private": true,
     "engines": {
