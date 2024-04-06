@@ -1,3 +1,7 @@
+# NextJS Boilerplate
+
+A kick starter kit for Next.js 14+, Tailwind CSS 3.3, and TypeScript 5+.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
