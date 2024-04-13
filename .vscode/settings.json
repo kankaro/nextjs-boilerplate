@@ -80,6 +80,7 @@
         "nextjs",
         "Parens",
         "reduxjs",
+        "stylelint",
         "svgr",
         "tailwindcss",
         "toastify",
