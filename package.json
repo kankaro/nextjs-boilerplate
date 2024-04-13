@@ -13,6 +13,8 @@
         "build": "next build",
         "start": "next start",
         "lint": "next lint",
+        "css:lint": "stylelint \"**/*.css\"",
+        "css:lint-fix": "stylelint \"**/*.css\" --fix",
         "prettify": "prettier --write .",
         "prepare": "husky"
     },
